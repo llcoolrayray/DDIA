@@ -1,2 +1,4 @@
-# 启动项目
-> docsify serve ./docs
+# Headline
+
+> An awesome project.
+>start: docsify serve docs
