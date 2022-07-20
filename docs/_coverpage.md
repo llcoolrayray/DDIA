@@ -3,4 +3,4 @@
 # 数据密集型应用系统设计
 
 [GitHub](https://github.com/llcoolrayray/ddia.git)
-[Get Started](distributed-data/partitioning/main.md)
+[Get Started](distributed-data/replication/main.md)
