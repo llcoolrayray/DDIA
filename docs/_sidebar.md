@@ -12,3 +12,4 @@
 * [**事务**](distributed-data/transactions/main.md) 
 * [**分布式系统的挑战**](distributed-data/distributed/main.md) 
 * [**一致性与共识**](distributed-data/algorithm/main.md) 
+* [**Paxos Made Simple**](distributed-data/paxos/main.md) 

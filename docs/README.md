@@ -1,5 +1,4 @@
 # Headline
 
 > An awesome project.
->start: docsify serve docsf
-> 
+>start: docsify serve docs
